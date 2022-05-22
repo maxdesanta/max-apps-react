@@ -1,0 +1,16 @@
+button {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.register {
+    background-color: #F9D923;
+    color: #1E1901;
+}
+
+.login {
+    background-color: #541792;
+    color: white;
+    margin: 0 5px 0 40px;
+}
